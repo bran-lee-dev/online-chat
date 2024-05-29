@@ -67,7 +67,7 @@ importers:
         specifier: 4.26.2
         version: 4.26.2
       husky:
-        specifier: ^9.0.11
+        specifier: 9.0.11
         version: 9.0.11
       jest:
         specifier: 29.7.0
